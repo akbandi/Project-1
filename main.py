@@ -1,2 +1,4 @@
 # This is main.py for the branching and merging demo
-a = 100
+# Hyeeun is adding a comment here
+a = 906
+my_variable = "target"
