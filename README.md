@@ -29,3 +29,5 @@ Arnold Schultz, Akhil Bandi, Hyeeun Hughes, Rafael Lewis
 3. https://www.zillow.com/research/data/
 
 4. https://www.statista.com/statistics/183657/average-size-of-a-family-in-the-us/
+
+5. https://www.reddit.com/r/learnpython/comments/98nqg8/comment/e4hfdf7/  for code trick
