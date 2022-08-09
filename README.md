@@ -2,16 +2,19 @@
 ## Study of the effect of migration on housing costs
 
 # Introduction
-    The effects of migration are often talked about and debated both good and bad.  This is a short
-study to see if there is any effect on the price of houses in areas where migration rates are different
-from the average.
+    The positive and negative effects of interstate migration have been closely studied for many years now. One of those effects being investigated is the change in housing prices in areas that experience high and low levels of migration.
+This short study is being conducted to determine if there is any effect on housing prices in states that experience high or low migration. The data being anaylzed is taken from post-2008 financial crisis as well as pre-pandemic databases.  
+
 
 # Methodology
 
-    We will use census data from 2010 to 2019 along with data from Zillow over the same period to look
-for a relationship between migration data and house prices in that time period.  We are using that
-time period since it mostly misses the recession.  We will use the US as a whole for the control.
-The data will be processed in two Jupyter Notebooks, one for data cleaning and the other for analysis.
+    This study uses census data from 2010 to 2019 along with data from Zillow over the same period to look
+for a relationship between migration data and house prices in that time period. This time period was specifically chosen to avoid the potential confounding effects of the 2008 financial and housing crisis and COVID-19. We will use the US as a whole for the control. The data will be processed in two Jupyter Notebooks, one for data cleaning and the other for analysis.
+
+
+# Questions
+    Question 1: What are the top states in terms of migration in and out?
+    Question 2: Is there a relationship between migration and housing price?
 
 # Conclusions
 
